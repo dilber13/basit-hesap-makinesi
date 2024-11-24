@@ -1,0 +1,15 @@
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\bin\Debug\net6.0\basitHesapMakinesi.exe
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\bin\Debug\net6.0\basitHesapMakinesi.deps.json
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\bin\Debug\net6.0\basitHesapMakinesi.runtimeconfig.json
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\bin\Debug\net6.0\basitHesapMakinesi.dll
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\bin\Debug\net6.0\basitHesapMakinesi.pdb
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\obj\Debug\net6.0\basitHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\obj\Debug\net6.0\basitHesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\obj\Debug\net6.0\basitHesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\obj\Debug\net6.0\basitHesapMakinesi.AssemblyInfo.cs
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\obj\Debug\net6.0\basitHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\obj\Debug\net6.0\basitHesapMakinesi.dll
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\obj\Debug\net6.0\refint\basitHesapMakinesi.dll
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\obj\Debug\net6.0\basitHesapMakinesi.pdb
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\obj\Debug\net6.0\basitHesapMakinesi.genruntimeconfig.cache
+C:\Users\dndag\Desktop\basitHesapMakinesi\basitHesapMakinesi\obj\Debug\net6.0\ref\basitHesapMakinesi.dll
